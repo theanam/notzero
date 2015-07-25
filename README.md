@@ -16,4 +16,4 @@ For google chrome:
 
 For Firefox:
 
-<http://addons.mozilla.com>
+<https://addons.mozilla.org/en-US/firefox/addon/not-zero/>
