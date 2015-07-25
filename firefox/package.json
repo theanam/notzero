@@ -1,0 +1,12 @@
+{
+  "title": "Not Zero",
+  "name": "notzero",
+  "version": "1.0.0",
+  "description": "Get rid of facebook 0 errors",
+  "main": "index.js",
+  "author": "Anam Ahmed",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
